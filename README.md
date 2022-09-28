@@ -23,7 +23,7 @@ Choose the one you need.
 I created the Gerber files with the online tool EasyEDA and ordered it at JLCPCB.
 I cannot guarantee, if this set of zipped Gerber files works also for other providers, like e.g. PCBWay. I have not tried that. But I saw online, that others did it.
 
-You might have spotted in the photo of the module backside below that there is a wire soldered between the gate and trigger jacks. That is the correction of an error I found after I already ordered the PCBs. That error is fixed in the Gerber files and in the schematic.
+You might have seen in the photo of the module backside below that there is a wire soldered between the gate and trigger jacks. That is the correction of an error I found after I already ordered the PCBs. That error is fixed in the Gerber files and in the schematic.
 
 ## Panel Layout
 I added the information about hole coordinates for the front panel in the folder PanelLayout, referring to the component layout in the Gerber files. The layout is the same for both versions.
