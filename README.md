@@ -4,13 +4,6 @@ The chip is available at the [ElectricDruid](https://electricdruid.net) web shop
 
 There is a [YouTube video](https://youtu.be/kh0m0Idso9o) available with some demonstration of this an a few other ADSR modules.
 
-## Design and Modification
-The design mainly follows the schematic provided in the Electric Druid chip documentation.
-
-The chip output level is between 0V and +5V.
-This is increased by a factor 2 in my design, as I prefer to have  max out of +10V for my envelope generators.
-If you want to have the original +5V output, just replace resistor R16 (20K) with a 10K resistor.
-
 ## Module Built and PCBs
 If you want to build the module yourself, I uploaded the schematics, the BOM and the Gerber files for the PCB.
 
@@ -24,6 +17,13 @@ I created the Gerber files with the online tool EasyEDA and ordered it at JLCPCB
 I cannot guarantee, if this set of zipped Gerber files works also for other providers, like e.g. PCBWay. I have not tried that. But I saw online, that others did it.
 
 You might have seen in the photo of the module backside below that there is a wire soldered between the gate and trigger jacks. That is the correction of an error I found after I already ordered the PCBs. That error is fixed in the Gerber files and in the schematic.
+
+## Design and Modification
+The design mainly follows the schematic provided in the Electric Druid chip documentation.
+
+The chip output level is between 0V and +5V.
+This is increased by a factor 2 in my design, as I prefer to have  max out of +10V for my envelope generators.
+If you want to have the original +5V output, just replace resistor R16 (20K) with a 10K resistor.
 
 ## Panel Layout
 I added the information about hole coordinates for the front panel in the folder PanelLayout, referring to the component layout in the Gerber files. The layout is the same for both versions.
