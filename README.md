@@ -2,7 +2,7 @@
 An envelope generator Eurorack module, based on the Electric Druid EnvGen8 chip.
 The chip is available at the [ElectricDruid](https://electricdruid.net) web shop.
 
-There is a [YouTube video](https://youtu.be/kh0m0Idso9o) available with some demonstration of this an a few other ADSR modules.
+There is a [YouTube video](https://youtu.be/9a9NVf8K_XA) available, introducing the module features.
 
 ## Module Built and PCBs
 If you want to build the module yourself, I uploaded the schematics, the BOM and the Gerber files for the PCB.
