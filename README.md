@@ -4,7 +4,7 @@ The chip is available at the [ElectricDruid](https://electricdruid.net) web shop
 
 There is a [YouTube video](https://youtu.be/9a9NVf8K_XA) available, introducing the module features.
 
-## Module Built and PCBs
+## Module Build and PCBs
 If you want to build the module yourself, I uploaded the schematics, the BOM and the Gerber files for the PCB.
 
 There are two different versions for the control board, an "original" and a "Thonk" version.
