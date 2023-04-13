@@ -19,4 +19,4 @@
 | Header | 2.54mm Male 1x3 | 2 | Connector Main Board |
 | Header | 2.54mm Female 1x4 | 2 | Connector Control Board |
 | Header | 2.54mm Female 1x3 | 2 | Connector Control Board |
-| Header | 2.54mm Female 2x8 | 1 | Power Connector (+5V is used) |
+| Header | 2.54mm Male 2x8 | 1 | Power Connector (+5V is used) |
